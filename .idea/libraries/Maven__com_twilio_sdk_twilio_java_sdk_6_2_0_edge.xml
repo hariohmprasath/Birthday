@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.twilio.sdk:twilio-java-sdk:6.2.0-edge">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twilio/sdk/twilio-java-sdk/6.2.0-edge/twilio-java-sdk-6.2.0-edge.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twilio/sdk/twilio-java-sdk/6.2.0-edge/twilio-java-sdk-6.2.0-edge-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twilio/sdk/twilio-java-sdk/6.2.0-edge/twilio-java-sdk-6.2.0-edge-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

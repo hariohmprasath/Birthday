@@ -15,8 +15,8 @@ import java.util.Properties;
 
 
 public class TwilloService {
-    public static final String ACCOUNT_SID = "AC7827380a69b39d0987420ba49198988c";
-    public static final String AUTH_TOKEN = "bf6e1e8163657fc58fb5c051feebde07";
+    public static final String ACCOUNT_SID = "";
+    public static final String AUTH_TOKEN = "";
 
     private static Logger logger = LoggerFactory.getLogger(TwilloService.class);
     private static Properties configProperties = null;

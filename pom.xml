@@ -55,7 +55,7 @@
     </build>
 
     <properties>
-        <springframework.version>4.0.6.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
         <quartz.version>2.2.1</quartz.version>
     </properties>
 
